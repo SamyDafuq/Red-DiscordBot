@@ -9,12 +9,15 @@ packaging
 platformdirs
 psutil
 python-dateutil
+python-discovery
 PyYAML
 rapidfuzz
 Red-Commons
 Red-Lavalink
+redbot-update
 rich
 schema
+textual
 typing_extensions
 yarl
 distro; sys_platform == "linux"
